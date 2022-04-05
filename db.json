@@ -1,0 +1,18 @@
+{
+  "users":[
+    {
+      "email": "daiana@email.com",
+      "password": "di240313",
+      "nome": "Daiana",
+      "id": 1
+    },
+  
+  {
+    "email" : " caique@email.com " ,
+    "senha" : " $2a$10$VWO7K/BBAFS1AHpMbSgOK.jJ4GPc9oEsSLvj9hcAjDffmP2qc09CS " ,
+    "nome" : " Caique " ,
+    "id" : 2
+  }
+]
+}
+   
